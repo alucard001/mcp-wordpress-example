@@ -9,10 +9,13 @@ This is for demo and testing purpose only.  And the code here is for my referenc
 - Python=3.12
 - [`uv`](https://github.com/astral-sh/uv) under Windows
 
-## About `mcp-sample.json`
+## About `mcp-sample.json` / `mcp-sample-remote.json`
 
 This file is a sample configuration for FastMCP. It defines the tools and prompts that are available to the MCP server.
 It is used to initialize the MCP server and I add it to my IDE as MCP server settings.
+
+- `mcp-sample.json`: For local MCP server
+- `mcp-sample-remote.json`: For remote MCP server
 
 ## Files
 
