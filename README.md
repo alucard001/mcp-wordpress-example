@@ -7,7 +7,7 @@ This is for demo and testing purpose only.  And the code here is for my referenc
 
 ## Current Setup
 - Python=3.12
-- [uv](https://github.com/astral-sh/uv) under Windows
+- [`uv`](https://github.com/astral-sh/uv) under Windows
 
 ## About `mcp-sample.json`
 
