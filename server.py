@@ -1,4 +1,3 @@
-from dis import Instruction
 from fastmcp import FastMCP
 
 # Server
